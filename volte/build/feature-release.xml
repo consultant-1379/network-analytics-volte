@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<feature>
+	<product-id>CNA 403 3035</product-id>
+	<feature-name>Ericsson-VoLTE-Report</feature-name>
+	<release>16A</release>
+	<system-area>LTE/VoLTE</system-area>
+    <datasource-guid>0e81554f-ed55-498d-836c-d5f8ddbcfe7d</datasource-guid> 
+    <ericsson-library>true</ericsson-library>
+</feature>
